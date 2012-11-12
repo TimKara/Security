@@ -1,0 +1,36 @@
+﻿/* This css file was written by Engin Tim Kara */
+
+body
+{
+    background:#666 url('../img/bg.png');
+}
+
+.Button
+{
+    background-color: #666;
+    color: #ccc;
+    border-style: double;
+    border-color: #000;
+    border-width: 4px;
+}
+
+.Box
+{
+    background-color: #666;
+    color: #ccc;
+    border-style: double;
+    border-color: #000;
+    border-width: 4px;
+}
+
+.Label
+{
+    color: #333;
+}
+
+#center
+{
+    width:610px;
+    height: 310px;
+    margin:100px auto;
+}
