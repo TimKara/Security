@@ -17,7 +17,7 @@
                 <asp:Label ID="LabelErrorMessage" runat="server" Font-Bold="True" Font-Italic="True" Font-Size="XX-Large" Font-Underline="False" ForeColor="#CC0000" Text="You don't have access to this page!"></asp:Label>
                 <br />
                 <br />
-                <asp:Button ID="ButtonIndex" Class="Button" runat="server" Text="Go back to Index.aspx" OnClick="ButtonIndex_Click" />
+                <asp:Button ID="ButtonIndex" Class="Button" runat="server" Text="Go back to Default.aspx" OnClick="ButtonIndex_Click" />
             </asp:Panel>
         </div>
     </form>
