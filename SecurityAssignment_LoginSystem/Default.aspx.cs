@@ -11,7 +11,7 @@ using MySql.Data.MySqlClient;
 
 namespace SecurityAssignment_LoginSystem
 {
-    public partial class Index : System.Web.UI.Page
+    public partial class Default : System.Web.UI.Page
     {
 
         private bool userAccess; // userAccess=(false) is standard user. And userAccess=(true) is webmaster.

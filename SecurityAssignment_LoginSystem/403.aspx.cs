@@ -16,7 +16,7 @@ namespace SecurityAssignment_LoginSystem
 
         protected void ButtonIndex_Click(object sender, EventArgs e)
         {
-            Response.Redirect("Index.aspx");
+            Response.Redirect("Default.aspx");
         }
     }
 }

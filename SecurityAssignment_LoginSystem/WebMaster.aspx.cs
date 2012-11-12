@@ -41,7 +41,7 @@ namespace SecurityAssignment_LoginSystem
         {
             userAccess = false;
             Session["access"] = userAccess;
-            Response.Redirect("Index.aspx");
+            Response.Redirect("Default.aspx");
         }
 
         protected void ButtonCreate_Click(object sender, EventArgs e)
